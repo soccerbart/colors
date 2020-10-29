@@ -5,7 +5,7 @@ This website helped me learn a ton of key React concepts where I was able to wor
 
 Check out the project to interact with it!
 
-
+https://soccerbart.github.io/colors/
 
 ![](public/colors-1.png)
 ---------------------------
